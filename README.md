@@ -2,7 +2,9 @@ Rango - A Django Project
 ========================
 
 <h4>Summary</h4>
-<p class="black">A small project I created while learning Django (a Python web framework).</p>
+<p class="black">A small Django web application which allows users to share links and categorize those links. Page views are tracked and users can "like" links.</p>
+
+![rango-screenshot](rango-screenshot.png)
 
 <h4>Features</h4>
 <ul class="black">
@@ -15,6 +17,3 @@ Rango - A Django Project
 
 <h4>Tools</h4>
 <p>HTML, CSS, JavaScript, virtualenv, Pycharm, and Python (Django)</p>
-
-<h4>Links</h4>
-<p>See it <a href="http://digitalmockingbird.pythonanywhere.com/rango/">live!</a></p>
